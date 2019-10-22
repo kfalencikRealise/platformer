@@ -1,4 +1,4 @@
-const context, controller, rectangle, loop;
+let context, controller, rectangle, loop;
 
 context = document.querySelector('canvas').getContext('2d');
 
